@@ -9,6 +9,9 @@ João Carlos Lima e Silva
 ## Ícones
 
 :package: Nova funcionalidade  
+
 :up: Atualização
-:beatle: Correção de bug
+
+:lady_beetle: Correção de bug
+
 :checkered_flag: Realese
